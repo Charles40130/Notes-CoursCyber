@@ -24,3 +24,13 @@ Conventions d'appel et registres
 
 nasm -f elf64 addition3.asm -o addition3.o
 
+Les arguments sont à
+- [rsp] : contient argc
+- [rsp+8] : contient argv[0]
+- [rsp+ 16] : contient argv[1]
+
+Via fonction , convention d'appel x86-64 sous linux (ABI system V)
+- 1er argument : rdi
+- 2ème arg : rsi
+- 3ème arg : rdx,
+
