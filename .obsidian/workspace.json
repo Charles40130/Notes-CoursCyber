@@ -190,14 +190,25 @@
   },
   "active": "daebb41f2383420e",
   "lastOpenFiles": [
-    "Forensics/Cours 4.md",
-    "ReverseEngineering/Cours 4.md",
-    "Forensics",
-    "ReverseEngineering/Cours 5.md",
     "ReverseEngineering/Cours 3.md",
-    "ReverseEngineering/Cours 2.md",
+    "ReverseEngineering/Cours 4.md",
+    "ReverseEngineering/Cours 5.md",
+    "ReverseEngineering/Assembleur.md",
+    "ReverseEngineering/Assembly.md",
+    "ExploitationBinaire/CTFs.md",
+    "ExploitationBinaire/Librairie pwntools.md",
+    "Intelligence Stratégique et Ecoomique/Meteorage.md",
+    "ExploitationBinaire",
     "ReverseEngineering/Crackme.md",
-    "ReverseEngineering/Untitled",
-    "ReverseEngineering/Kali Tools.md"
+    "Untitled.md",
+    "Intelligence Stratégique et Ecoomique",
+    "ReverseEngineering/Optimisation x86-64 NASM & ABI System V.md",
+    "ReverseEngineering/Cours 2.md",
+    "ReverseEngineering/Commandes.md",
+    "ReverseEngineering/Commande gef.md",
+    "ReverseEngineering/Kali Tools.md",
+    "Forensics/Cours 4.md",
+    "Forensics",
+    "ReverseEngineering/Untitled"
   ]
 }

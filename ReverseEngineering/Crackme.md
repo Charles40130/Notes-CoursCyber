@@ -21,3 +21,11 @@ Procédure utilisé:
 	- `starti` : Lancement du programme afin et lecture via la stack à l'instruction strcmp , récupération du mdp !
 
 shl :
+
+03 :
+Procédure utilisé :
+	1 . Inspections des fcts via `info function`
+	2.
+	3.L'instruction `lea edx, [rax+0x1]` montrait qu'on rajouté 1 à chaque lettre puis on compararait le résultat avec la chaine secrète Wfsz0Fbtz
+	4. Entrée + 1 = secret, il s'agit d'un chiffrement de Caesar tel que Wfsz0Fbtz - 1 = Very/Easy
+	5. Mdp : Very/Easy
