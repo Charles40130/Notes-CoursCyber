@@ -1,2 +1,4 @@
 
 Paladins : bootable, forensic-focused live Linux operating system created by [SUMURI](https://sumuri.com/paladin/) designed for digital forensics, incident response (DFIR), triage, and secure disk imaging
+
+

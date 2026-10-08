@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReverseEngineering/Cours 2.md",
+                "file": "ExploitationBinaire/CTFs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cours 2"
+              "title": "CTFs"
             }
           }
         ]
@@ -190,24 +190,26 @@
   },
   "active": "daebb41f2383420e",
   "lastOpenFiles": [
+    "ReverseEngineering/Optimisation x86-64 NASM & ABI System V.md",
+    "ReverseEngineering/Kali Tools.md",
+    "ExploitationBinaire/CTFs.md",
+    "ReverseEngineering/Crackme.md",
+    "ReverseEngineering/Cours 2.md",
+    "ReverseEngineering/Commandes.md",
+    "ReverseEngineering/Commande gef.md",
+    "ReverseEngineering/Assembly.md",
     "ReverseEngineering/Cours 3.md",
     "ReverseEngineering/Cours 4.md",
     "ReverseEngineering/Cours 5.md",
     "ReverseEngineering/Assembleur.md",
-    "ReverseEngineering/Assembly.md",
-    "ExploitationBinaire/CTFs.md",
-    "ExploitationBinaire/Librairie pwntools.md",
     "Intelligence Stratégique et Ecoomique/Meteorage.md",
+    "Forensics/Cours 4.md",
+    "Intelligence Stratégique et Ecoomique/Biais cognitif et manipulation de l'information.md",
+    "Intelligence Stratégique et Ecoomique/Cours 1.md",
+    "ExploitationBinaire/Librairie pwntools.md",
     "ExploitationBinaire",
-    "ReverseEngineering/Crackme.md",
     "Untitled.md",
     "Intelligence Stratégique et Ecoomique",
-    "ReverseEngineering/Optimisation x86-64 NASM & ABI System V.md",
-    "ReverseEngineering/Cours 2.md",
-    "ReverseEngineering/Commandes.md",
-    "ReverseEngineering/Commande gef.md",
-    "ReverseEngineering/Kali Tools.md",
-    "Forensics/Cours 4.md",
     "Forensics",
     "ReverseEngineering/Untitled"
   ]

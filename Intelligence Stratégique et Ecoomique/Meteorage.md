@@ -22,4 +22,16 @@ Système Business
 A régarder :
 ARTE : https://educ.arte.tv/program/la-bataille-dairbus
 
-DDOS sur le site web
+
+
+Définir une veille ,
+est ce qu'elle est concurrencer , technos , images 
+
+| Axes(Règlementaire ,concurencielle etc.. ?) | Infos utiles ( à trouver sur le site)                         | Sources                               | Obs             | Outils (abonner à une newletter, google alert , flux rss etC...) | Paramétrage                                                                              | Référent de la veille (moi) |
+| ------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | --------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------- |
+| Concurrentielle                             | Détecter les offres rivales de détection et d'alerte orageuse | Sites web des riveaux Nowcast (LINET) | G               | Google Alerts, LinkedIn                                          | Mots-clés:"LINET" foudre, 3earth Networks" thunderstorm alert<br>Fréquence :hebdomadaire | Moi                         |
+| Technologique                               | Précision                                                     |                                       |                 |                                                                  |                                                                                          |                             |
+| Réglementaire                               | Révisions des normes sur les systèmes d'alerte foudre         |                                       | Norme IEC 62793 | Requêtes/ Google dorks                                           |                                                                                          | Moi                         |
+|                                             |                                                               |                                       |                 |                                                                  |                                                                                          |                             |
+
+Rapport à faire :
